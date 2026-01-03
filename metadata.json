@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bharat E Motors - Ampere EV Deoghar",
+  "description": "Official website for Bharat E Motors, authorized Ampere Electric Scooter dealer and service center in Deoghar, Jharkhand. Explore models like Nexus, Magnus, and Reo, and book a test ride today.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
